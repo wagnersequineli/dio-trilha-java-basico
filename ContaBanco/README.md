@@ -1,18 +1,49 @@
-## Getting Started
+# 💻 Projeto Conta Banco
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Olá, pessoal!  
+Este é um projeto simples de uma aplicação em Java para simular a criação de uma conta bancária via terminal.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 🎯 Objetivo
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Este projeto foi desenvolvido como parte do curso **Java Básico** da [DIO (Digital Innovation One)](https://www.dio.me), sob orientação do professor **Gleyson Sampaio**.  
+O principal objetivo é praticar os conceitos aprendidos no módulo de **Sintaxe Java**, como:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Declaração de variáveis
+- Entrada de dados com `Scanner`
+- Uso de tipos primitivos
+- Concatenação e manipulação de strings
+- Execução via terminal
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+---
 
-## Dependency Management
+## 🛠️ Sobre o Projeto
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+A aplicação simula a abertura de uma conta bancária.  
+O usuário deve fornecer algumas informações básicas, como:
+
+- Número da conta
+- Agência
+- Nome do cliente
+- Saldo inicial
+
+Ao final, o sistema retorna uma mensagem personalizada com os dados da conta criada.
+
+📁 Estrutura principal:
+📦 ContaBanco
+└── 📁 src
+└── 📄 ContaTerminal.java
+
+---
+
+## ✅ Conclusão
+
+Exercício concluído com sucesso!  
+Foi uma ótima forma de reforçar o conteúdo aprendido e praticar a lógica com Java de maneira simples, mas efetiva.  
+A prática me ajudou a fixar conceitos importantes que serão a base para projetos mais complexos.
+
+---
+
+🚀 *Vamos em frente com os próximos desafios!*
+
